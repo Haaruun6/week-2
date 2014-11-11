@@ -1,0 +1,36 @@
+<!Doctype html>
+	<html>
+<head>
+	<title>Haaruun</title>
+	<link href="style.css" type="text/css" rel="stylesheet" />
+	<div id="nav">
+		<div id="nav wrapper">
+			<ul> 
+				<li><a href="index.html"> Home </a></li><li>
+					<a href="#"> About </a></li><li>
+					<a href="#"> Contact </a></li><li>
+					<a href="https://www.facebook.com/haaruun.dhubat"> Social </a>
+					<ul>
+					<li><a href="https://www.youtube.com/channel/UC7WaRJ74zbUVWj60TjEeFsQ">Youtube</a></li>
+					<li><a href="https://twitter.com/haaruund">Twitter</a></li>
+					<li><a href="https://www.facebook.com/haaruun.dhubat">Facebook</a></li>
+				</li>
+			</ul>
+		</div>
+	</div>
+<div>
+	
+</div>
+
+</head>
+<body>
+<img class="post-image"  src="IMG_0172.JPG">
+<h1>My name is Haaruun</h1>
+
+<strong><p> Hi, my name is Haaruun. I am an up and comming Journalist. If there is one thing I have been great at
+it is setting goals and challenging myself. That is exactly what I am doing in this venture.</strong></p>
+</br>
+
+</body>
+
+</html>
