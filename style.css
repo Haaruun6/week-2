@@ -1,0 +1,101 @@
+html {
+margin: 0;
+font-family: Georgia, "Time New Roman", Times, serif;
+font-size: 24px;
+line-height: 1.5;
+}
+
+h1{
+	text-align: center;
+	line-height: 1.1;	
+	border-bottom: 8px solid black;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	overflow: scroll;
+	font-family: arial;
+	font-size: 18px;
+}
+
+#nav {
+	background-color: #222;
+
+}
+
+#nav wrapper {
+	width: 960px;
+	margin: 0 auto;
+	text-align: left;
+
+}
+
+#nav ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+
+#nav ul li {
+	display: inline-block;
+}
+
+#nav ul li:hover {
+	background-color: #333;
+
+}
+
+img{
+	max-width: 100%;
+	width: 1200px;
+	height: 300px;
+	padding-left: 10px;
+	padding-top: 0.5px;
+}
+
+.post-image{
+	display: block;
+	margin: 0 auto;
+}
+
+#nav ul li a, visited{
+	color: #ccc;
+	display: block;
+	padding: 15px;
+	text-decoration: none;
+}
+#nav ul li a:hover{
+	color: #ccc
+	text-decoration: none;
+
+}
+
+#nav ul li:hover ul{
+	display: block;
+
+}
+
+#nav ul ul{
+	display: none;
+	position: absolute;
+	background-color: #333;
+	border: 5px solid #222;
+	border-top: 0;
+	margin-left: -5px;
+	min-width: 25px;
+}
+
+#nav ul ul li{
+	display: block;
+}
+
+#nav ul ul li a,visited{
+	color: #ccc;
+
+}
+
+#nav ul ul li a:hover {
+	color: #099;
+}
